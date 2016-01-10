@@ -15,7 +15,7 @@ Brief description of thing
 //snippet of code example
 ```
 
-Why it isn't commonly used anymore.
+Why it isn't commonly used anymore. [relevant links everywhere!](http://rackt.org/)
 
 Brief description of alternate Approach(es) to acheive similar effect
 
